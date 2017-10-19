@@ -1,0 +1,76 @@
+body {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 100%; }
+
+.shopping {
+  width: 1002px;
+  height: 601px;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  margin-left: 0;
+  margin-right: 0;
+  margin: auto;
+  border: 1px solid #ccc; }
+
+.tit {
+  width: 1000px; }
+  .tit ul li {
+    width: 200px;
+    height: 50px;
+    line-height: 50px;
+    background-color: skyblue;
+    float: left;
+    color: #fff; }
+
+.introduce li {
+  width: 1000px;
+  height: 100px;
+  line-height: 100px;
+  margin-top: 20px; }
+  .introduce li b {
+    width: 200px;
+    height: 100px;
+    float: left;
+    display: inline-block;
+    text-align: center; }
+    .introduce li b img {
+      width: 200px;
+      height: 100px; }
+    .introduce li b button {
+      height: 25px;
+      width: 25px;
+      line-height: 25px;
+      border: none;
+      background-color: skyblue;
+      color: white; }
+    .introduce li b a {
+      display: inline-block;
+      width: 25px;
+      height: 25px;
+      line-height: 25px; }
+
+.total {
+  height: 50px;
+  width: 1000px;
+  margin-top: 20px;
+  background-color: skyblue;
+  line-height: 50px; }
+  .total ul li {
+    width: 333px;
+    float: left; }
+    .total ul li button {
+      width: 200px;
+      height: 42px;
+      margin-top: 4px;
+      border: none;
+      color: #fff;
+      background-color: #01ff70;
+      line-height: 42px; }
+
+/*# sourceMappingURL=style.css.map */
